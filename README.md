@@ -1,0 +1,1 @@
+This repository contains the demonstrated Xcode project and the Keynote presentation document from the SwiftUI Basics and PropertyWrapper Deep dive session organized on 3rd August 2024 by AppleDeveloperClub Ahmedabad
